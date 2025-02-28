@@ -48,16 +48,18 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 --> 
 
 ### 🚀 Stats  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Zilith&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilith&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Zilith&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilith&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p> 
 
 ---
 
