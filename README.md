@@ -39,7 +39,9 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 ## 📊 GitHub Stats  
 
 ### 🔥 Streaks  
-![GitHub Streak](https://streak-stats.demolab.com?user=Zilith&theme=radical&hide_border=true)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zilith&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p> 
 <!--  
 ### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-dark)  
