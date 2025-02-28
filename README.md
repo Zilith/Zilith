@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 ## 📌 About Me  
 
 - 💻 I specialize in **JavaScript, Node.js, React, Vue.js**  
-<!--  - 🌱 I’m currently learning **TypeScript and backend scaling** --> 
 - 🔭 I’m working on **full-stack projects**  
 - 📫 How to reach me: diegoalejandro063@gmail.com | [LinkedIn](https://www.linkedin.com/in/zilith/)
 - ⚡ Fun fact: I love solving coding challenges!  
@@ -19,7 +18,6 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-<!--  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   -->
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
@@ -42,10 +40,6 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zilith&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p> 
-<!--  
-### 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-dark)  
---> 
 
 ### 🚀 Stats  
 <table align="center">
@@ -65,11 +59,4 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15)  
 
 ---
-<!-- 
-## ✨ Featured Projects  
- 
-### 📌 Project Name  
-**Description:** Briefly describe your project here.  
-🔗 **[View Project](https://github.com/YourGitHubUsername/YourProjectName)**  
---> 
 
